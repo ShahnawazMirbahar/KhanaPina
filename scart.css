@@ -1,0 +1,21 @@
+ .products{
+    border: 1px solid #333;
+   
+   
+    border-radius: 5px;
+    padding: 16px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 250px;
+  
+     background-color: antiquewhite ; !impportant
+   
+    
+}
+
+
+
+.image-resize{
+    height: 200px;
+    width: 220px;
+}
